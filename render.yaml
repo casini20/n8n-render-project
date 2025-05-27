@@ -15,5 +15,5 @@ services:
       - key: N8N_BASIC_AUTH_USER
         value: "admin"
       - key: N8N_BASIC_AUTH_PASSWORD
-        value: "C@s-vj0110$"
+        value: 'C@s-vj0110$'
 
