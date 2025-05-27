@@ -1,0 +1,4 @@
+"scripts": {
+  "start": "n8n start"
+}
+
